@@ -1,0 +1,600 @@
+!_TAG_FILE_FORMAT	1	/original ctags format/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACC_INT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1231
+ALERT_BIT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1283
+ALERT_XYZT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1287
+AUD_LF	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1129
+AUD_RT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1125
+AX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	223
+AY	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	215
+AZ	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	231
+AutoUpdate	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	AutoUpdate;$/
+BADGETOOLS_H	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	48
+BLUE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	104
+BLUE_0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	907
+BLUE_1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	911
+BLUE_2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	915
+BLUE_3	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	919
+BLUE_4	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	923
+BLUE_5	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	927
+BLU_CP0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1141
+BLU_CP0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	972
+BLU_CP1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1137
+BLU_CP1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	965
+BLU_CP2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1133
+BLU_CP2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	958
+BTN_0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1045
+BTN_1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1049
+BTN_2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1053
+BTN_3	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1065
+BTN_4	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1061
+BTN_5	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1057
+BTN_OS	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1069
+BUF_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1295
+BUF_SIZE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1291
+CLK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	CLK;$/
+CS	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	CS;$/
+CYAN	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	120
+DATA	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	DATA;$/
+DC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	DC;$/
+EE_BADGE_DATA_END	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1221
+EE_BADGE_DATA_START	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1217
+ETX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1197
+GREEN	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	112
+INLINE__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1551
+INLINE__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1555
+INTSU	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1259
+IR_BAUD	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1074
+IR_FREQ	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1078
+IR_IN	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1087
+IR_OUT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1083
+L	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	88
+LARGE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	192
+LCD_BUFFER_SIZE_BOTH_TYPES	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1201
+LCD_BUFFER_SIZE_BOTH_TYPES	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1465
+Lookup__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Lookup__(int32_t x, int32_t b, int32_t a[], int32_t n) { int32_t i = (x)-(b); return ((unsigned)i >= n) ? 0 : (a)[i]; }$/
+MAGENTA	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	136
+MMA7660_I2C	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1279
+MODE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1263
+Max__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Max__(int32_t a, int32_t b) { return a > b ? a : b; }$/
+Min__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Min__(int32_t a, int32_t b) { return a < b ? a : b; }$/
+OFF	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	73
+OFF_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1189
+OLED_CLK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1096
+OLED_CS	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1108
+OLED_DAT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1092
+OLED_DC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1100
+OLED_RST	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1104
+ON	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	64
+PB0_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1161
+PB1_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1165
+PB2_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1169
+PB3_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1173
+PB4_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1177
+PB5_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1181
+PB6_MASK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1185
+PD	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1275
+PDET	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1271
+PostEffect__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1553
+PostEffect__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1557
+R	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	96
+RED	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	128
+RGB_B1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	932
+RGB_B2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	944
+RGB_CP0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1154
+RGB_CP0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	993
+RGB_CP1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1150
+RGB_CP1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	986
+RGB_CP2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1146
+RGB_CP2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	979
+RGB_G1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	936
+RGB_G2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	948
+RGB_R1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	940
+RGB_R2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	952
+RST	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	RST;$/
+Rotl__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Rotl__(uint32_t a, uint32_t b) { return (a<<b) | (a>>(32-b)); }$/
+Rotr__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Rotr__(uint32_t a, uint32_t b) { return (a>>b) | (a<<(32-b)); }$/
+SCR_BLACK	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	167
+SCR_WHITE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	175
+SCR_XOR	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	184
+SMALL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	200
+SPCNT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1255
+SR	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1267
+SRST	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1251
+SSD1306_ACTIVATE_SCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1437
+SSD1306_CHARGEPUMP	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1427
+SSD1306_COMSCANDEC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1419
+SSD1306_COMSCANINC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1415
+SSD1306_DEACTIVATE_SCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1441
+SSD1306_DISPLAYALLON	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1355
+SSD1306_DISPLAYALLON_RESUME	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1351
+SSD1306_DISPLAYOFF	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1367
+SSD1306_DISPLAYON	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1371
+SSD1306_EXTERNALVCC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1431
+SSD1306_INVERTDISPLAY	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1363
+SSD1306_LCDCHARMAX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1343
+SSD1306_LCDHEIGHT32	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1335
+SSD1306_LCDHEIGHT64	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1339
+SSD1306_LCDWIDTH	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1331
+SSD1306_LEFT_HORIZ_SCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1453
+SSD1306_MEMORYMODE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1411
+SSD1306_NORMALDISPLAY	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1359
+SSD1306_RIGHT_HORIZ_SCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1449
+SSD1306_SEGREMAP	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1423
+SSD1306_SETCOMPINS	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1379
+SSD1306_SETCONTRAST	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1347
+SSD1306_SETDISPLAYCLOCKDIV	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1387
+SSD1306_SETDISPLAYOFFSET	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1375
+SSD1306_SETHIGHCOLUMN	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1403
+SSD1306_SETLOWCOLUMN	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1399
+SSD1306_SETMULTIPLEX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1395
+SSD1306_SETPRECHARGE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1391
+SSD1306_SETSTARTLINE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1407
+SSD1306_SETVCOMDETECT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1383
+SSD1306_SET_VERT_SCROLL_AREA	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1445
+SSD1306_SWITCHCAPVCC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1205
+SSD1306_SWITCHCAPVCC	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1469
+SSD1306_VERTLEFTHORIZSCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1461
+SSD1306_VERTRIGHTHORIZSCROLL	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1457
+STX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1193
+Shr__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^INLINE__ int32_t Shr__(uint32_t a, uint32_t b) { return (a>>b); }$/
+TILT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1247
+TPCount	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^unsigned char TPCount = 7;$/
+TPDischarge	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^unsigned char TPDischarge = 15;$/
+TPPins	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^unsigned char TPPins[] = {BTN_OS, BTN_5, BTN_4, BTN_3, BTN_2, BTN_1, BTN_0};$/
+TPPins	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^unsigned char TPPins[7];$/
+TV_DAC0	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1121
+TV_DAC1	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1117
+TV_DAC2	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1113
+TYPE_128X32	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1209
+TYPE_128X32	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1473
+TYPE_128X64	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1213
+TYPE_128X64	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1477
+WHITE	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	152
+XOUT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1235
+YELLOW	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	144
+YOUT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1239
+Yield__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1552
+Yield__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1558
+ZOUT	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1243
+_doscanf_ct	/home/ditkin/propside/hello/lib/libbadgetools/sscan_ct.c	/^int _doscanf_ct(const char* str, const char *fmt, va_list args) $/
+_scanf_gets_ct	/home/ditkin/propside/hello/lib/libbadgetools/sscan_ct.c	/^static const char* _scanf_gets_ct(const char *str, char* dst, unsigned width, int gettingChars) $/
+accel	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^int accel(int axis)$/
+accel_shaken	/home/ditkin/propside/hello/lib/libbadgetools/accel_shaken.c	/^int accel_shaken(void)$/
+accels	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^void accels(int *x, int *y, int *z)$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_asm.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_clear.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_led.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_leds.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_off.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_on.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgb.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgbs.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_blue.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_rgb.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_all.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb1.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb2.c	/^light badgeLight;$/
+badgeLight	/home/ditkin/propside/hello/lib/libbadgetools/leds_stop.c	/^light badgeLight;$/
+badgeScreen	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^volatile screen badgeScreen;$/
+badgeTouch	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^static touch badgeTouch;$/
+badge_setup	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^int32_t badge_setup(void)$/
+bitticks	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	bitticks;$/
+box	/home/ditkin/propside/hello/lib/libbadgetools/oled_box.c	/^void box(int32_t x0, int32_t y0, int32_t x1, int32_t y1, int32_t c)$/
+bt_accelInitFlag	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^volatile int bt_accelInitFlag = 0;$/
+bt_accelInitFlag	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int bt_accelInitFlag;$/
+buffer	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile uint8_t	buffer[LCD_BUFFER_SIZE_BOTH_TYPES];$/
+button	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^int button( int pad )$/
+buttons	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^int buttons(void)$/
+charSize	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int charSize;$/
+clear	/home/ditkin/propside/hello/lib/libbadgetools/oled_clear.c	/^int32_t clear(void)$/
+clear_bit	/home/ditkin/propside/hello/lib/libbadgetools/peb_clear_bit.c	/^void clear_bit(int bitNum, int *val)$/
+cog	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	cog;$/
+cog	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	cog;$/
+cogIRcom	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^int cogIRcom;$/
+coginit	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1560
+cognew	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1561
+cogstop	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1562
+command	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	command;$/
+contacts_count	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^int contacts_count()$/
+contacts_displayAll	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^void contacts_displayAll()$/
+contacts_eraseAll	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^void contacts_eraseAll()$/
+contacts_setStartAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^void contacts_setStartAddr(int address)$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int32_t     cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_asm.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_clear.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_led.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_leds.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_off.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_on.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgb.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgbs.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_blue.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_rgb.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_all.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb1.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb2.c	/^int32_t 	cpcog;$/
+cpcog	/home/ditkin/propside/hello/lib/libbadgetools/leds_stop.c	/^int32_t 	cpcog;$/
+crsrX	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int crsrX;$/
+crsrY	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	crsrY;$/
+cursor	/home/ditkin/propside/hello/lib/libbadgetools/oled_cursor.c	/^void cursor(int col, int row)$/
+cycleticks	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	cycleticks;$/
+dat	/home/ditkin/propside/hello/lib/libbadgetools/ir_hdserial.c	/^static uint8_t dat[] = {$/
+dev_ee_show	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^void dev_ee_show(int byteCount, int address)                            \/\/changed 8\/23 4:54 PM$/
+disch	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	disch;$/
+displayHeight	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	displayHeight;$/
+displayType	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	displayType;$/
+displayWidth	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	displayWidth;$/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk = 0, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeBadgeOk	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eeHome = 32768;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eeHome;$/
+eeHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eeHome;$/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNext	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk = 0, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeNextAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk = 0, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecCount	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eeRecCount, eeNextAddr, eeBadgeOk, $/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^             eeRecHome, eeRecOffice;$/
+eeRecHome	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^             eeRecHome, eeRecOffice;$/
+eeRecOffice	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^             eeRecHome, eeRecOffice;$/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecs	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+eeRecsAddr	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^             eeNext, eeRecsAddr, eeRecs, $/
+ee_badgeCheck	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^void ee_badgeCheck(void)$/
+ee_displayIndex	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^void ee_displayIndex(int start, int end, int increment)$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/accel_shaken.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eei2cLock;$/
+eei2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eei2cLock;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/accel_shaken.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^volatile int eei2cLockFlag;$/
+eei2cLockFlag	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^volatile int eei2cLockFlag;$/
+eeprint	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^int eeprint(const char *fmt, ...)$/
+eeprinted	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^int eeprinted(const char *fmt, ...)$/
+eescan	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^int eescan(int recIdx, const char *fmt, ...) $/
+frsetup	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	frsetup;$/
+get_bit	/home/ditkin/propside/hello/lib/libbadgetools/peb_get_bit.c	/^int get_bit(int bitNum, int val)$/
+hdserial	/home/ditkin/propside/hello/lib/libbadgetools/ir_hdserial.c	/^jm_ir_hdserial hdserial;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^int i2cLock = 0;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_count.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_displayAll.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_eraseAll.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_contacts_setStartAddr.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_dev_ee_show.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_badgeCheck.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_ee_displayIndex.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprint.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eeprinted.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_eescan.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^int i2cLock;$/
+i2cLock	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^int i2cLock;$/
+inbox	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^volatile int inbox = 0;$/
+init	/home/ditkin/propside/hello/hello.c	/^void init() {$/
+init_MMA7660FC	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^void init_MMA7660FC(void)$/
+invert	/home/ditkin/propside/hello/lib/libbadgetools/oled_invert.c	/^void invert(int i)$/
+ir_receive	/home/ditkin/propside/hello/lib/libbadgetools/peb_ir_receive.c	/^int ir_receive(char *s, int ssize)$/
+ir_send	/home/ditkin/propside/hello/lib/libbadgetools/peb_ir_send.c	/^void ir_send(char *s, int ssize)$/
+irclear	/home/ditkin/propside/hello/lib/libbadgetools/peb_irclear.c	/^void irclear(void)$/
+ircom_dec	/home/ditkin/propside/hello/lib/libbadgetools/ir_dec.c	/^int32_t ircom_dec(int32_t value)$/
+ircom_hex	/home/ditkin/propside/hello/lib/libbadgetools/ir_hex.c	/^int32_t ircom_hex(int32_t value, int32_t digits)$/
+ircom_rjdec	/home/ditkin/propside/hello/lib/libbadgetools/ir_rjdec.c	/^int32_t ircom_rjdec(int32_t val, int32_t width, int32_t pchar)$/
+ircom_rx	/home/ditkin/propside/hello/lib/libbadgetools/ir_rx.c	/^int32_t ircom_rx(void)$/
+ircom_rxcheck	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxcheck.c	/^int32_t ircom_rxcheck(void)$/
+ircom_rxflush	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxflush.c	/^int32_t ircom_rxflush(void)$/
+ircom_rxtime	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxtime.c	/^int32_t ircom_rxtime(int32_t mslim)$/
+ircom_start	/home/ditkin/propside/hello/lib/libbadgetools/ir_hdserial.c	/^int32_t ircom_start(int32_t rxd, int32_t txd, int32_t baud, int32_t freq)$/
+ircom_stop	/home/ditkin/propside/hello/lib/libbadgetools/ir_stop.c	/^void ircom_stop(void)$/
+ircom_str	/home/ditkin/propside/hello/lib/libbadgetools/ir_str.c	/^int32_t ircom_str(char *p_zstr)$/
+ircom_tx	/home/ditkin/propside/hello/lib/libbadgetools/ir_tx.c	/^int32_t ircom_tx(int32_t c)$/
+ircom_tx_bin	/home/ditkin/propside/hello/lib/libbadgetools/ir_tx_bin.c	/^int32_t ircom_tx_bin(int32_t value, int32_t digits)$/
+ircom_txflush	/home/ditkin/propside/hello/lib/libbadgetools/ir_txflush.c	/^int32_t ircom_txflush(void)$/
+irprint	/home/ditkin/propside/hello/lib/libbadgetools/peb_irprint.c	/^int irprint(const char *fmt, ...)$/
+irscan	/home/ditkin/propside/hello/lib/libbadgetools/peb_irscan.c	/^int irscan(const char *fmt, ...) $/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_dec.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_hdserial.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_hex.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_rjdec.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_rx.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxcheck.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxflush.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_rxtime.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_stop.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_str.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_tx.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_tx_bin.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/ir_txflush.c	/^jm_ir_hdserial *irself;$/
+irself	/home/ditkin/propside/hello/lib/libbadgetools/peb_ir_receive.c	/^jm_ir_hdserial *irself;$/
+jm_ir_hdserial	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^typedef struct jm_ir_hdserial {$/
+jm_ir_hdserial	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^} jm_ir_hdserial;$/
+led	/home/ditkin/propside/hello/lib/libbadgetools/leds_led.c	/^void led(int n, int state)$/
+led_off	/home/ditkin/propside/hello/lib/libbadgetools/leds_off.c	/^void led_off(int32_t n)$/
+led_on	/home/ditkin/propside/hello/lib/libbadgetools/leds_on.c	/^void led_on(int32_t n)$/
+ledbits	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	ledbits;$/
+leddat	/home/ditkin/propside/hello/lib/libbadgetools/leds_asm.c	/^uint8_t leddat[] = {$/
+leds	/home/ditkin/propside/hello/lib/libbadgetools/leds_leds.c	/^void leds(int32_t bits)$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_asm.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_clear.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_led.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_leds.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_off.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_on.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgb.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgbs.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_blue.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_rgb.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_all.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb1.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb2.c	/^light *ledsself;$/
+ledsself	/home/ditkin/propside/hello/lib/libbadgetools/leds_stop.c	/^light *ledsself;$/
+letter	/home/ditkin/propside/hello/lib/libbadgetools/oled_letter.c	/^void letter(char c)$/
+light	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^typedef struct light {$/
+light	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^} light;$/
+light_clear	/home/ditkin/propside/hello/lib/libbadgetools/leds_clear.c	/^void light_clear(void)$/
+light_set_all	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_all.c	/^void light_set_all(int32_t bits)$/
+light_set_rgb	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb.c	/^void light_set_rgb(int32_t bits)$/
+light_set_rgb1	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb1.c	/^void light_set_rgb1(int32_t bits)$/
+light_set_rgb2	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_rgb2.c	/^void light_set_rgb2(int32_t bits)$/
+light_start	/home/ditkin/propside/hello/lib/libbadgetools/leds_asm.c	/^int32_t light_start(void)$/
+light_stop	/home/ditkin/propside/hello/lib/libbadgetools/leds_stop.c	/^void light_stop(void)$/
+line	/home/ditkin/propside/hello/lib/libbadgetools/oled_line.c	/^void line(int32_t x0, int32_t y0, int32_t x1, int32_t y1, int32_t c)$/
+main	/home/ditkin/propside/hello/hello.c	/^int main(void)$/
+oleddat	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^uint8_t oleddat[] = {$/
+oledprint	/home/ditkin/propside/hello/lib/libbadgetools/peb_text.c	/^int oledprint(const char *fmt, ...)$/
+p_pinslist	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	p_pinslist;$/
+pincount	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	pincount;$/
+pinsmask	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	pinsmask;$/
+point	/home/ditkin/propside/hello/lib/libbadgetools/oled_point.c	/^void point(int32_t x, int32_t y, int32_t color)$/
+raw2g100	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^int raw2g100(char gRaw)$/
+receive	/home/ditkin/propside/hello/lib/libbadgetools/peb_ir_receive.c	/^int receive(char *s)$/
+retrieve	/home/ditkin/propside/hello/lib/libbadgetools/peb_retrieve.c	/^void retrieve(char *contact, int recIdx)$/
+rgb	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgb.c	/^void rgb(int side, int color)$/
+rgbs	/home/ditkin/propside/hello/lib/libbadgetools/leds_rgbs.c	/^void rgbs(int32_t bits2, int32_t bits1)$/
+rotate180	/home/ditkin/propside/hello/lib/libbadgetools/peb_image180.c	/^void rotate180()$/
+rxbuf	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile uint8_t	rxbuf[BUF_SIZE];$/
+rxhead	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	rxhead;$/
+rxhub	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	rxhub;$/
+rxpin	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	rxpin;$/
+rxtail	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	rxtail;$/
+screen	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^typedef volatile struct screen {$/
+screen	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^} screen;$/
+screenLock	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^volatile int screenLock = 0;$/
+screen_GetDisplayHeight	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayHeight.c	/^int32_t screen_GetDisplayHeight(void)$/
+screen_GetDisplayType	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayType.c	/^int32_t screen_GetDisplayType(void)$/
+screen_GetDisplayWidth	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayWidth.c	/^int32_t screen_GetDisplayWidth(void)$/
+screen_HIGH	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_HIGH(int32_t Pin)$/
+screen_LOW	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_LOW(int32_t Pin)$/
+screen_SHIFTOUT	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_SHIFTOUT(int32_t Dpin, int32_t Cpin, int32_t CSpin, int32_t Bits, int32_t Value)$/
+screen_WRITEBUFF	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_WRITEBUFF(int32_t Dpin, int32_t Cpin, int32_t CSpin, int32_t Bits, int32_t Addr)$/
+screen_auto	/home/ditkin/propside/hello/lib/libbadgetools/oled_auto.c	/^void screen_auto(int state)$/
+screen_char32x16	/home/ditkin/propside/hello/lib/libbadgetools/oled_char32x16.c	/^void screen_char32x16(int32_t ch, int32_t row, int32_t col)$/
+screen_char7x5	/home/ditkin/propside/hello/lib/libbadgetools/oled_char7x5.c	/^void screen_char7x5(int32_t ch, int32_t row, int32_t col)$/
+screen_dataAddr	/home/ditkin/propside/hello/lib/libbadgetools/oled_dataAddr.c	/^screen *screen_dataAddr()               \/\/ <added 8\/23 5:27 PM>$/
+screen_getAuto	/home/ditkin/propside/hello/lib/libbadgetools/oled_getAuto.c	/^int screen_getAuto()                \/\/ <Added 8\/23 4:43 PM>...$/
+screen_getBuffer	/home/ditkin/propside/hello/lib/libbadgetools/oled_getBuffer.c	/^int32_t screen_getBuffer(void)$/
+screen_getSplash	/home/ditkin/propside/hello/lib/libbadgetools/oled_getSplash.c	/^int32_t screen_getSplash(void)$/
+screen_image	/home/ditkin/propside/hello/lib/libbadgetools/peb_screen_image.c	/^void screen_image(char *imgaddr)$/
+screen_init	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_init(int32_t ChipSelect, int32_t DataCommand, int32_t TheData, int32_t TheClock, int32_t Reset, int32_t VCC_state, int32_t Type)$/
+screen_scrollLeft	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollLeft.c	/^int32_t screen_scrollLeft(int32_t scrollStart, int32_t scrollStop)$/
+screen_scrollLeftDiag	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollLeftDiag.c	/^int32_t screen_scrollLeftDiag(int32_t scrollStart, int32_t scrollStop)$/
+screen_scrollRight	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollRight.c	/^int32_t screen_scrollRight(int32_t scrollStart, int32_t scrollStop)$/
+screen_scrollRightDiag	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollRightDiag.c	/^int32_t screen_scrollRightDiag(int32_t scrollStart, int32_t scrollStop)$/
+screen_scrollStop	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollStop.c	/^int32_t screen_scrollStop(void)$/
+screen_setcommand	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_setcommand(int32_t cmd, int32_t argptr)$/
+screen_ssd1306_Command	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_ssd1306_Command(int32_t thecmd)$/
+screen_ssd1306_Data	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_ssd1306_Data(int32_t thedata)$/
+screen_start	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_start(void)$/
+screen_stop	/home/ditkin/propside/hello/lib/libbadgetools/oled_stop.c	/^int32_t screen_stop(void)$/
+screen_string16x4	/home/ditkin/propside/hello/lib/libbadgetools/oled_string16x4.c	/^void screen_string16x4(char *str, int32_t len, int32_t row, int32_t col)$/
+screen_string8x1	/home/ditkin/propside/hello/lib/libbadgetools/oled_string8x1.c	/^void screen_string8x1(char *str, int32_t len)$/
+screen_string8x2	/home/ditkin/propside/hello/lib/libbadgetools/oled_string8x2.c	/^void screen_string8x2(char *str, int32_t len, int32_t row, int32_t col)$/
+screen_swap	/home/ditkin/propside/hello/lib/libbadgetools/oled_swap.c	/^int32_t screen_swap(int32_t a, int32_t b)$/
+screen_update	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^int32_t screen_update(void)$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_asmfast.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_auto.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_box.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_char32x16.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_char7x5.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_clear.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_cursor.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_dataAddr.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getAuto.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getBuffer.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayHeight.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayType.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getDisplayWidth.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_getSplash.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_invert.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_letter.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_line.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_point.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollLeft.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollLeftDiag.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollRight.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollRightDiag.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_scrollStop.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_stop.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_string.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_string16x4.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_string8x1.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_string8x2.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_swap.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/oled_text_size.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/peb_image180.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/peb_screen_image.c	/^volatile screen *self;$/
+self	/home/ditkin/propside/hello/lib/libbadgetools/peb_shape.c	/^volatile screen *self;$/
+send	/home/ditkin/propside/hello/lib/libbadgetools/peb_ir_send.c	/^int send(char *s)$/
+set_1_blue	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_blue.c	/^void set_1_blue(int32_t idx)$/
+set_1_rgb	/home/ditkin/propside/hello/lib/libbadgetools/leds_set_1_rgb.c	/^void set_1_rgb(int idx)$/
+set_bit	/home/ditkin/propside/hello/lib/libbadgetools/peb_set_bit.c	/^void set_bit(int bitNum, int *val)$/
+shape	/home/ditkin/propside/hello/lib/libbadgetools/peb_shape.c	/^void shape(char *img, int bw, int xtl, int ytl, int xpics, int ypics)$/
+sscan_ct	/home/ditkin/propside/hello/lib/libbadgetools/sscan_ct.c	/^int sscan_ct(const char *str, const char *fmt, ...) $/
+st_eeInitFlag	/home/ditkin/propside/hello/lib/libbadgetools/accel_shaken.c	/^int st_eeInitFlag;$/
+st_eeInitFlag	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^int st_eeInitFlag;$/
+st_eeInitFlag	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^int st_eeInitFlag;$/
+st_eeprom	/home/ditkin/propside/hello/lib/libbadgetools/accel_shaken.c	/^i2c *st_eeprom;$/
+st_eeprom	/home/ditkin/propside/hello/lib/libbadgetools/accelerometer.c	/^i2c *st_eeprom;$/
+st_eeprom	/home/ditkin/propside/hello/lib/libbadgetools/badgealpha.c	/^i2c *st_eeprom;$/
+store	/home/ditkin/propside/hello/lib/libbadgetools/peb_store.c	/^int store(char *contact)$/
+stored	/home/ditkin/propside/hello/lib/libbadgetools/peb_already_stored.c	/^int stored(char * s)$/
+string	/home/ditkin/propside/hello/lib/libbadgetools/oled_string.c	/^void string(char *str)$/
+stringView	/home/ditkin/propside/hello/lib/libbadgetools/peb_stringView.c	/^void stringView(char *s, int ssize)$/
+text_size	/home/ditkin/propside/hello/lib/libbadgetools/oled_text_size.c	/^void text_size(int size)$/
+tmp__	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^static int32_t tmp__;$/
+touch	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^typedef struct touch {$/
+touch	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^} touch;$/
+touch_start	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^int32_t touch_start(int32_t count, unsigned char *p_pins, int32_t dms)$/
+trim_ct	/home/ditkin/propside/hello/lib/libbadgetools/sscan_ct.c	/^static const char* trim_ct(const char* str) $/
+tself	/home/ditkin/propside/hello/lib/libbadgetools/jm_touchpads.c	/^static touch *tself;$/
+txbuf	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile uint8_t	txbuf[BUF_SIZE];$/
+txhead	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	txhead;$/
+txhub	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	txhub;$/
+txpin	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	txpin;$/
+txtail	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int32_t	txtail;$/
+vccstate	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	/^  volatile int	vccstate;$/
+waitcnt	/home/ditkin/propside/hello/lib/libbadgetools/badgetools.h	1559
+xAccel	/home/ditkin/propside/hello/hello.c	/^int xAccel = 0;$/
+yAccel	/home/ditkin/propside/hello/hello.c	/^int yAccel = 0;$/
+zAccel	/home/ditkin/propside/hello/hello.c	/^int zAccel = 0;$/

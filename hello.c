@@ -18,7 +18,7 @@ void init() {
     printf("Badge setup\n");
     clear();
     accels(&xAccel, &yAccel, &zAccel);
-    screen_auto(1);
+    screen_auto(0);
     
 }
 
@@ -41,7 +41,7 @@ int main(void)
     while(1) {
  //       waitcnt(CLKFREQ/1000+CNT);
         accels(&xAccel, &yAccel, &zAccel);
-        printf("Accel z %d\n", zAccel);
+ //       printf("Accel z %d\n", zAccel);
 
         double xNorm = ( (xAccel + 100.0) / 200.0 ); 
         double yNorm = ( (yAccel + 100.0) / 200.0 ); 
@@ -74,6 +74,7 @@ int main(void)
         point(n, yvals[n], 1);
         point(n, zvals[n], 1);
         n = (n + 1) % 127;
+        screen_update();
     }
     return 0;
 }
